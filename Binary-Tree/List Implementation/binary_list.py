@@ -1,3 +1,5 @@
+#bianry tree list implementation
+
 def binary_tree(root):
 	return [root,[],[]]
 def insertLeft(root,newBranch):
