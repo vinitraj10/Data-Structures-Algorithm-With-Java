@@ -1,3 +1,5 @@
+#binary search using recursion
+
 def search(x,p,q,n):
 	if p<=q:
 		m=len(x)
